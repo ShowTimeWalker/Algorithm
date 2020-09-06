@@ -1,6 +1,3 @@
-# Algorithm  
-solve different problems using algorithm  
-
 中文：  
 问题1：迷宫问题  
 给定一个矩阵N*M(2<=N,M<=10)  
